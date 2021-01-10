@@ -1,0 +1,70 @@
+-------------------HELLO WORLD IN DIFFERENT LANGUAGES--------------------------------------------
+
+1 ) C
+ 
+#include <stdio.h>
+
+int main(void)
+{
+  printf("Hello World\n");
+  return 0;
+}
+
+
+2 ) C++
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "Hello, World!"; 
+    return 0; 
+}
+
+3 ) C#
+
+using System;
+
+namespace HelloWorld
+{
+    class Hello {
+        static void Main(string[] args)
+        {      // prints hello world
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+4 ) PHP
+
+<?php
+echo "Hello World!";
+?>
+
+5 ) JavaScript
+
+console.log('Hello World');
+
+6 ) JAVA
+
+class HelloWorld {
+    public static void main( String []args ) {
+        System.out.println( "Hello World!" );
+    }
+}
+
+7 ) Python
+
+print('Hello ,world');
+
+8 ) HTML
+
+Hello World!
+
+9 ) JQuery
+
+$("body").append("Hello world!");
+
+10 ) 
+
+
